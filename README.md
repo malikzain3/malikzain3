@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Zain ul Abdin 👋
 
-<!--
-**malikzain3/malikzain3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Front End Developer
 
-Here are some ideas to get you started:
+Building modern web experiences with **React**, **Firebase**, **Tailwind CSS**, and **Node.js**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Portfolio: https://zainulabdin.me
+
+📍 Islamabad, Pakistan
+
+🎓 Software Engineering Student
+
+💡 Currently building modern web applications and continuously learning new technologies.
+
+## 🚀 About Me
+
+- 💻 Front End Developer
+- ⚛️ React Developer
+- 🔥 Firebase Enthusiast
+- 🎨 Tailwind CSS Lover
+- 🌱 Currently learning Node.js & MERN Stack
+- 📚 Software Engineering Student
+- 🚀 Passionate about building clean, responsive and scalable web applications
+## 🛠 Tech Stack
+
+- React
+- JavaScript
+- Firebase
+- Tailwind CSS
+- HTML5
+- CSS3
+- Node.js
+- Git
+- GitHub
