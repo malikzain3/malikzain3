@@ -65,3 +65,37 @@ Building modern web experiences with **React**, **Firebase**, **Tailwind CSS**, 
 <img src="https://skillicons.dev/icons?i=react,firebase,tailwind,nodejs,js,html,css,git,github,vscode" />
 
 </p>
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=malikzain3&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikzain3&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+
+</p>
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=malikzain3&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=malikzain3&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
+
+</p>
+
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🏫 **Schoolix** | Modern School Management System built with React & Firebase |
+| 🌐 **Sense Website** | Official website developed using React |
+| 💼 **Portfolio Website** | Personal developer portfolio showcasing projects |
