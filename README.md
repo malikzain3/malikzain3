@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Banner Image -->
-<img src="https://raw.githubusercontent.com/malikzain3/malikzain3/main/banner.png" alt="Zain ul Abdin Banner" width="100%" />
+<!-- Banner Image (Updated to match exact file name Banner.png) -->
+<img src="https://raw.githubusercontent.com/malikzain3/malikzain3/main/Banner.png" alt="Zain ul Abdin Banner" width="100%" />
 
 <br/><br/>
 
