@@ -62,7 +62,7 @@
   <rect x="20" y="55" width="360" height="375" class="box-border" />
   <text x="35" y="50" class="box-header">VISUAL.MAP</text>
   
-  <!-- Image Loading with GitHub Raw Fallback -->
+  <!-- Image Frame -->
   <image href="https://raw.githubusercontent.com/malikzain3/malikzain3/main/profile.png" x="30" y="65" width="340" height="355" preserveAspectRatio="xMidYMid slice" />
   
   <!-- Sci-Fi Radar Overlay Animation -->
