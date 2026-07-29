@@ -1,6 +1,6 @@
 <!-- HEADER ANIMATED BANNER -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/malikzain3/malikzain3/main/dark.svg" width="100%" alt="Zainulabdin Terminal Banner" />
+  <img src="https://raw.githubusercontent.com/malikzain3/malikzain3/main/Banner.png" width="100%" alt="Zainulabdin Terminal Banner" />
 </div>
 
 <br />
