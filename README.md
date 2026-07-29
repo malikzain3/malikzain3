@@ -1,101 +1,69 @@
+<div align="center">
+
+<!-- Banner Image -->
+<img src="https://raw.githubusercontent.com/malikzain3/malikzain3/main/banner.png" alt="Zain ul Abdin Banner" width="100%" />
+
+<br/><br/>
+
 # Hi there, I'm Zain ul Abdin 👋
+### Front End Developer | Building Modern Web Apps with React, Firebase & Tailwind CSS
 
-### Front End Developer
+<br/>
 
-Building modern web experiences with **React**, **Firebase**, **Tailwind CSS**, and **Node.js**.
+[![Portfolio](https://img.shields.io/badge/Portfolio-zainulabdin.me-0A101F?style=for-the-badge&logo=google-chrome&logoColor=22D3EE)](https://zainulabdin.me)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-zain-ul-abdin-7a5868386)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-004363bssef24@student.iiu.edu.pk-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981)](mailto:004363bssef24@student.iiu.edu.pk)
 
-🌐 Portfolio: https://zainulabdin.me
+</div>
 
-📍 Islamabad, Pakistan
+---
 
-🎓 Software Engineering Student
+## ⚡ Tech Stack & Tools
 
-💡 Currently building modern web applications and continuously learning new technologies.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,firebase,tailwind,nodejs,js,html,css,git,github,vscode,figma" alt="Tech Stack" />
+</div>
 
-## 🚀 About Me
+---
 
-- 💻 Front End Developer
-- ⚛️ React Developer
-- 🔥 Firebase Enthusiast
-- 🎨 Tailwind CSS Lover
-- 🌱 Currently learning Node.js & MERN Stack
-- 📚 Software Engineering Student
-- 🚀 Passionate about building clean, responsive and scalable web applications
-## 🛠 Tech Stack
+## 📊 GitHub Analytics
 
-- React
-- JavaScript
-- Firebase
-- Tailwind CSS
-- HTML5
-- CSS3
-- Node.js
-- Git
-- GitHub
+<div align="center">
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Front+End+Developer;React+Developer;Firebase+Enthusiast;Tailwind+CSS+Lover;Building+Modern+Web+Experiences"
-      alt="Typing SVG"
-    />
-  </a>
-</p>
+  <!-- Streak Stats Card -->
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=malikzain3&theme=dark&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE" alt="GitHub Streak" />
+  
+  <br/><br/>
 
-## 🌐 Connect with Me
+  <!-- Stats & Top Languages Side-by-Side -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=malikzain3&show_icons=true&theme=dark&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikzain3&layout=compact&theme=dark&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F" alt="Top Languages" />
 
-<p align="left">
-  <a href="https://zainulabdin.me">
-    <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+</div>
 
-  <a href="https://www.linkedin.com/in/muhammad-zain-ul-abdin-7a5868386">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="mailto:004363bssef24@student.iiu.edu.pk">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-## 💻 Tech Stack
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=react,firebase,tailwind,nodejs,js,html,css,git,github,vscode" />
-
-</p>
-
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=malikzain3&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikzain3&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
-
-</p>
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=malikzain3&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=malikzain3&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
-
-</p>
-
+---
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 🏫 **Schoolix** | Modern School Management System built with React & Firebase |
-| 🌐 **Sense Website** | Official website developed using React |
-| 💼 **Portfolio Website** | Personal developer portfolio showcasing projects |
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **🏫 Schoolix** | Modern School & Attendance Management System | `React` `Firebase` `Tailwind` | [Live Demo](https://zainulabdin.me) |
+| **🌐 Sense Website** | Official high-performance web platform | `React` `Tailwind CSS` | [Live Demo](https://zainulabdin.me) |
+| **💼 Portfolio Website** | Premium dark-themed software engineer portfolio | `React` `Tailwind CSS` | [Visit Site](https://zainulabdin.me) |
+
+---
+
+## 🎯 Current Status & Focus
+
+- 🔭 **Currently Working On:** Expanding **Schoolix** with dedicated Teacher & Admin roles.
+- 🌱 **Currently Learning:** Advanced Next.js Server Components & Performance Optimization.
+- 💬 **Ask Me About:** React, Firebase architecture, Tailwind CSS UI design.
+- 📫 **How to reach me:** `004363bssef24@student.iiu.edu.pk`
+
+---
+
+<div align="center">
+  <sub>Designed & Developed by <b>Zain ul Abdin</b> • Islamabad, Pakistan</sub>
+</div>
