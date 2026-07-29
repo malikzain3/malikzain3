@@ -40,7 +40,7 @@
   <text x="35" y="50" class="box-header">VISUAL.MAP</text>
   
   <!-- Image Frame -->
-  <image href="https://raw.githubusercontent.com/malikzain3/malikzain3/main/profile7%20(1).png" x="30" y="65" width="340" height="355" preserveAspectRatio="xMidYMid slice" clip-path="inset(0 round 4px)" />
+  <image href="profile.png" x="30" y="65" width="340" height="355" preserveAspectRatio="xMidYMid slice" clip-path="inset(0 round 4px)" />
 
   <!-- Right Box: SYSTEM.INFO -->
   <rect x="400" y="55" width="480" height="375" class="box-border" />
