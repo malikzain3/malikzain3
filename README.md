@@ -28,14 +28,13 @@
 
 ---
 
-## 🏆 GitHub Stats
-
+## 🏆 GitHub Contributions & Activity
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=malikzain3&color=22D3EE&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
----
+<br/>
 
 <div align="center">
   <picture>
@@ -44,6 +43,8 @@
     <img alt="Snake animation" src="https://raw.githubusercontent.com/malikzain3/malikzain3/output/github-snake.svg" />
   </picture>
 </div>
+
+---
 
 ## 🚀 Featured Projects
 
@@ -58,7 +59,7 @@
 ## 🎯 Current Focus & Goals
 
 * **🔭 Currently Working On:** Expanding **Schoolix** with dedicated Teacher & Admin dashboards.
-* **🌱 Currently Learning:** Advanced Next.js Server Components & State Management patterns.
+* **🌱 Currently Learning:** Advanced Next.js Server Components & State Management.
 * **💬 Ask Me About:** React, Firebase architecture, Tailwind UI design.
 * **📫 How to reach me:** `004363bssef24@student.iiu.edu.pk`
 
