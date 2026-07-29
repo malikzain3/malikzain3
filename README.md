@@ -28,13 +28,8 @@
 
 ---
 
-## 🏆 GitHub Trophies & Stats
+## 🏆 GitHub Stats
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=malikzain3&theme=darkhub&no-frame=true&no-background=true&column=6" alt="GitHub Trophies" />
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=malikzain3&color=22D3EE&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
