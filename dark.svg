@@ -15,7 +15,7 @@
       .box-border { stroke: #30363d; stroke-width: 1.5; fill: #0d1117; rx: 6px; }
       .box-header { font-family: monospace; font-size: 12px; fill: #8b949e; font-weight: bold; }
 
-      /* Animations */
+      /* Animation Styles */
       @keyframes pulse {
         0% { opacity: 0.2; }
         50% { opacity: 1; }
@@ -25,12 +25,12 @@
 
       @keyframes scan {
         0% { transform: translateY(0px); opacity: 0; }
-        50% { opacity: 0.4; }
+        50% { opacity: 0.5; }
         100% { transform: translateY(350px); opacity: 0; }
       }
       .scanline {
         fill: url(#scan-gradient);
-        animation: scan 4s linear infinite;
+        animation: scan 3.5s linear infinite;
       }
 
       @keyframes blink {
@@ -38,52 +38,46 @@
         50% { opacity: 0; }
       }
       .cursor { animation: blink 0.8s infinite; fill: #58a6ff; }
-
-      @keyframes fadeIn {
-        from { opacity: 0; transform: translateX(-5px); }
-        to { opacity: 1; transform: translateX(0); }
-      }
-      .line-anim { animation: fadeIn 0.5s ease-in-out forwards; }
     </style>
 
     <linearGradient id="scan-gradient" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#58a6ff" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#58a6ff" stop-opacity="0.3"/>
+      <stop offset="50%" stop-color="#58a6ff" stop-opacity="0.4"/>
       <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
     </linearGradient>
   </defs>
 
-  <!-- Background Card -->
+  <!-- Main Background -->
   <rect width="900" height="450" class="bg" />
   <rect width="900" height="450" class="border" />
 
-  <!-- Title Bar -->
+  <!-- Window Bar -->
   <path d="M 0,10 Q 0,0 10,0 L 890,0 Q 900,0 900,10 L 900,35 L 0,35 Z" class="title-bar" />
   <circle cx="20" cy="18" r="6" class="dot-red" />
   <circle cx="40" cy="18" r="6" class="dot-yellow" />
   <circle cx="60" cy="18" r="6" class="dot-green" />
   <text x="450" y="22" text-anchor="middle" class="text-title">profile.sh --live</text>
 
-  <!-- Left Box: VISUAL.MAP (Photo Container) -->
+  <!-- VISUAL.MAP Frame -->
   <rect x="20" y="55" width="360" height="375" class="box-border" />
   <text x="35" y="50" class="box-header">VISUAL.MAP</text>
   
-  <!-- Image Frame (Raw URL Fix) -->
-  <image href="https://raw.githubusercontent.com/malikzain3/malikzain3/main/profile.png" x="30" y="65" width="340" height="355" preserveAspectRatio="xMidYMid slice" clip-path="inset(0 round 4px)" />
+  <!-- Image Loading with GitHub Raw Fallback -->
+  <image href="https://raw.githubusercontent.com/malikzain3/malikzain3/main/profile.png" x="30" y="65" width="340" height="355" preserveAspectRatio="xMidYMid slice" />
   
-  <!-- Radar Scanline Effect over Photo -->
-  <rect x="30" y="65" width="340" height="20" class="scanline" />
+  <!-- Sci-Fi Radar Overlay Animation -->
+  <rect x="30" y="65" width="340" height="30" class="scanline" />
 
-  <!-- Right Box: SYSTEM.INFO -->
+  <!-- SYSTEM.INFO Frame -->
   <rect x="400" y="55" width="480" height="375" class="box-border" />
   <text x="415" y="50" class="box-header">SYSTEM.INFO</text>
 
-  <!-- Live Badge -->
+  <!-- Animated Live Status -->
   <circle cx="830" cy="72" r="5" class="live-dot" />
   <text x="840" y="76" class="text-main" style="fill: #f85149; font-weight: bold; font-size: 11px;">LIVE</text>
 
-  <!-- System Info Text Rows -->
-  <g class="text-main line-anim">
+  <!-- Dynamic Content -->
+  <g class="text-main">
     <text x="420" y="100"><tspan class="text-accent">Subject</tspan> ........................... Zainulabdin</text>
     <text x="420" y="125"><tspan class="text-accent">Role</tspan> ...................... Frontend Developer</text>
     <text x="420" y="150"><tspan class="text-accent">Origin</tspan> .................... Islamabad, Pakistan</text>
