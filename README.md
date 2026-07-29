@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- Banner Image -->
-<img src="https://raw.githubusercontent.com/malikzain3/malikzain3/main/Banner.png" alt="Zain ul Abdin Banner" width="100%" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/malikzain3/malikzain3/main/dark.svg" width="100%" alt="Zainulabdin Terminal Profile" />
+</div>
 
 <br/><br/>
 
