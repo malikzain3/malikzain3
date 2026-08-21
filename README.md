@@ -55,15 +55,15 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 Profile Summary & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malikzain3&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Zain's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malikzain3&theme=tokyonight&hide_border=true" width="48%" alt="Streak Stats" />
+  <img src="https://komarev.com/ghpvc/?username=malikzain3&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikzain3&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=malikzain3&show_icons=true&theme=dark&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=malikzain3&layout=compact&theme=dark&hide_border=true" width="48%" alt="Top Languages" />
 </p>
 
 ---
